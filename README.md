@@ -23,7 +23,7 @@ Take webcam shots from target just sending a malicious link
 
 ```
 
-git clone https://github.com/Penzopm/Web-cheese.git
+https://github.com/Penzopm/WebCheese.git
 cd Web-cheese
 bash webcheese.sh
 ```
